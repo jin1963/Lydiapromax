@@ -1,0 +1,56 @@
+
+body {
+    background-color: #25003e;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.connect-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #facc15;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+h1 {
+    margin-top: 140px;
+    font-size: 32px;
+}
+.staking-box {
+    border: 2px solid gold;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1c0030;
+}
+.section-title {
+    font-weight: bold;
+}
+.earned {
+    color: #00ff00;
+}
+.claim-button {
+    margin-top: 15px;
+    background-color: #a855f7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
